@@ -1,0 +1,80 @@
+{"0": {
+    "doc": "Api documentation",
+    "title": "Api documentation",
+    "content": " ",
+    "url": "http://localhost:4000/api-documentation.html",
+    "relUrl": "/api-documentation.html"
+  },"1": {
+    "doc": "Application",
+    "title": "Application",
+    "content": "The Application Flexible\\Application is the entry point to the framework. Think about it as a manager that glues all parts. &lt;?php use Flexible\\Application; use Flexible\\Http\\ServerRequest; require __DIR__ . '/vendor/autoload.php'; $app = Application::create(); $app-&gt;router()-&gt;get('/', App\\SomeController::class); $app-&gt;emit( $app-&gt;handle(ServerRequest::fromGlobals()) ); . ",
+    "url": "http://localhost:4000/application.html",
+    "relUrl": "/application.html"
+  },"2": {
+    "doc": "Concepts",
+    "title": "Concepts",
+    "content": " ",
+    "url": "http://localhost:4000/concepts.html",
+    "relUrl": "/concepts.html"
+  },"3": {
+    "doc": "First Steps",
+    "title": "First Steps",
+    "content": " ",
+    "url": "http://localhost:4000/first-steps.html",
+    "relUrl": "/first-steps.html"
+  },"4": {
+    "doc": "Home",
+    "title": "Welcome to GitHub Pages",
+    "content": "You can use the editor on GitHub to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files. Markdown . Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for . Syntax highlighted code block # Header 1 ## Header 2 ### Header 3 - Bulleted - List 1. Numbered 2. List **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) . For more details see GitHub Flavored Markdown. Jekyll Themes . Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file. Support or Contact . Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out. ",
+    "url": "http://localhost:4000/#welcome-to-github-pages",
+    "relUrl": "/#welcome-to-github-pages"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "http://localhost:4000/installation.html",
+    "relUrl": "/installation.html"
+  },"7": {
+    "doc": "Logger",
+    "title": "Logger",
+    "content": " ",
+    "url": "http://localhost:4000/logger.html",
+    "relUrl": "/logger.html"
+  },"8": {
+    "doc": "Middleware",
+    "title": "Middleware",
+    "content": " ",
+    "url": "http://localhost:4000/middleware.html",
+    "relUrl": "/middleware.html"
+  },"9": {
+    "doc": "Request",
+    "title": "Request",
+    "content": " ",
+    "url": "http://localhost:4000/request.html",
+    "relUrl": "/request.html"
+  },"10": {
+    "doc": "Response",
+    "title": "Response",
+    "content": " ",
+    "url": "http://localhost:4000/response.html",
+    "relUrl": "/response.html"
+  },"11": {
+    "doc": "Router",
+    "title": "Router",
+    "content": " ",
+    "url": "http://localhost:4000/router.html",
+    "relUrl": "/router.html"
+  },"12": {
+    "doc": "Service Container",
+    "title": "Service Container",
+    "content": " ",
+    "url": "http://localhost:4000/service-container.html",
+    "relUrl": "/service-container.html"
+  }
+}

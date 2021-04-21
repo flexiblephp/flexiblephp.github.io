@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+title: Flexible
+description: Flexible PHP Framework
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
+
+# Build settings
+theme: just-the-docs
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - webpack.mix.js
+  - tailwind.config.js
+  - resources/

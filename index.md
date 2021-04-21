@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 0
+has_children: false
+has_toc: false
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/flexiblephp/flexiblephp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
